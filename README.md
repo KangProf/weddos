@@ -13,4 +13,5 @@ $ git clone https://github.com/KangProf/weddos
 $ ls
 
 $ python2 weddos.py
+
 Enter
